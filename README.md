@@ -1,5 +1,5 @@
 # pytesser
-Python/.bat script for converting video credits into text files
+Python/.bat script for converting video credits into text files. Created way back while learning Python. 
 
 Pytesser uses [ffmpeg](https://ffmpeg.org/download.html) and [tesseract](https://github.com/tesseract-ocr/tesseract/wiki) to perform all the heavy lifting. It also requires a pip install of the [Pytesseract](https://pypi.python.org/pypi/pytesseract/0.1) and [Pillow](https://python-pillow.org/) libraries. 
 
